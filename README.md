@@ -10,7 +10,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - [MidJourney](https://www.midjourney.com/app/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
-- [Link do Podcast](https://www.instagram.com/reel/Cu-FABOgXdr/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==))
+
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
@@ -18,7 +18,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Midjourney Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
-
+- [Link do Podcast](https://www.instagram.com/reel/Cu-FABOgXdr/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
 
 ## 👨‍💻 Expert
 
