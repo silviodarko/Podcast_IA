@@ -18,7 +18,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Midjourney Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
-## [Link do Podcast]([https://github.com/silviodarko](https://www.instagram.com/reel/Cu-FABOgXdr/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==))
+ [Link do Podcast]([https://github.com/silviodarko](https://www.instagram.com/reel/Cu-FABOgXdr/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==))
 
 
 ## 👨‍💻 Expert
